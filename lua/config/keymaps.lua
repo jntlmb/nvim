@@ -21,8 +21,3 @@ vim.keymap.set("n", "<C-Left>", "<C-w><", { noremap = true, silent = true })
 vim.keymap.set("n", "<C-Right>", "<C-w>>", { noremap = true, silent = true })
 vim.keymap.set("n", "<C-Up>", "<C-w>+", { noremap = true, silent = true })
 vim.keymap.set("n", "<C-Down>", "<C-w>-", { noremap = true, silent = true })
-
--- Diagnostics
-keymap.set("n", "<C-j>", function()
-  vim.lsp.diagnostic.goto_next()
-end, opts)

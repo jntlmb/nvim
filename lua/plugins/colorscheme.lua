@@ -1,19 +1,14 @@
 return {
-  --gruvbox - the goat
+  --the goat
   { "ellisonleao/gruvbox.nvim" },
-  --kanagawa
   { "rebelot/kanagawa.nvim" },
-  --rose-pine
   { "rose-pine/nvim", name = "rose-pine" },
-  --everforest
   { "sainnhe/everforest" },
-  --Apprentice
+  { "sainnhe/sonokai" },
   { "romainl/Apprentice" },
-  --onedark
   { "olimorris/onedarkpro.nvim", name = "onedark_vivid" },
   { "olimorris/onedarkpro.nvim", name = "onedark" },
   { "olimorris/onedarkpro.nvim", name = "onedark_dark" },
-  --tokyodark
   { "tiagovla/tokyodark.nvim" },
 
   {

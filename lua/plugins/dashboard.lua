@@ -40,9 +40,11 @@ return {
         header = [[
  __   __     __     __       
 /\ \ / /    /\ \   /\ \      
-\ \ \'/    _\_\ \  \ \ \____ 
+\ \ \ /    _\_\ \  \ \ \____ 
  \ \__|   /\_____\  \ \_____\
   \/_/    \/_____/   \/_____/
+
+  github.com/jntlmb
           ]],
         -- stylua: ignore
         ---@type snacks.dashboard.Item[]
